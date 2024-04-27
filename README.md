@@ -19,3 +19,17 @@ This Python program provides a simple expense tracking system using SQLite. User
 
 ```bash
 git clone https://github.com/dorpanz/ExpenseTracker.git
+```
+2. Navigate to the project directory:
+```bash
+cd ExpenseTracker
+```
+3. Run the main script:
+```bash
+python expense_tracker.py
+```
+
+## Usage
+- Add Expense: Enter the category, amount, and date of the expense.
+- Generate Monthly Report: View a detailed report for expenses in a specific month.
+- Exit: Terminate the program.
