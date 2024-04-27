@@ -26,7 +26,7 @@ cd ExpenseTracker
 ```
 3. Run the main script:
 ```bash
-python expense_tracker.py
+python expenseTrack.ipynb
 ```
 
 ## Usage
